@@ -5,7 +5,7 @@ Union Testnet BOT
 - Signup With X
 - Connect EVM (Use Metamask)
 - Connect Cosmos (Use Keplr)
-- Contact me if u want: [Vonssy](@Anoraks_uneducate)
+- Contact me if u want: [Vonssy](https://t.me/Anoraks_uneducate)
 - Price? Only $5
 
 ## Features
