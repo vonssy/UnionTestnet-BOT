@@ -1,8 +1,7 @@
 # Union Testnet BOT
-Union Testnet BOT
 
 - Register Here : [Union Testnet](https://app.union.build/)
-- Signup With X
+- Signup With X Account
 - Connect EVM (Use Metamask)
 - Connect Cosmos (Use Keplr)
 - Contact me if u want: [Vonssy](https://t.me/Anoraks_uneducate)
